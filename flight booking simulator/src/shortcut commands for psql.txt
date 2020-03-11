@@ -1,0 +1,5 @@
+inserting DDL
+\i 'C:/Users/Elliot/Desktop/IIT/2019/Fall 2019/CS425/Finalproject/DDL.sql';
+
+inserting sample data
+\i 'C:/Users/Elliot/Desktop/IIT/2019/Fall 2019/CS425/Finalproject/sampleData.sql';
